@@ -7,12 +7,12 @@
 
 
 
-📈 **My GitHub Stats:**
-</br>
+<!-- 📈 **My GitHub Stats:** -->
+<!-- </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadaliKeshtparvar&count_private=true&show_icons=true&theme=gruvbox&bg_color=40,0C1C08,225217" alt="MohammadaliKeshtparvar's GitHub stats"/>
 </br>
 </br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaliKeshtparvar&hide=jupyter%20notebook,shell&langs_count=8&theme=gruvbox&bg_color=-40,225217,0C1C08&layout=compact" alt="MohammadaliKeshtparvar's GitHub stats"/>
-
+ -->
 
 
